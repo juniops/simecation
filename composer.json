@@ -14,7 +14,12 @@
         "laravel/tinker": "^1.0",
         "nwidart/laravel-modules": "^5.0",
         "rollbar/rollbar": "~1.5",
-        "tcg/voyager": "^1.2"
+        "tcg/voyager": "^1.2",
+        "ext-gd": "*",
+        "ext-mbstring": "*",
+        "ext-bcmath": "*",
+        "ext-mcrypt": "*",
+        "ext-memcached": "*"
     },
     "require-dev": {
         "beyondcode/laravel-dump-server": "^1.0",
